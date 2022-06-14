@@ -1,12 +1,12 @@
 # PythonPoetry
 Projects from Reading and Writing Electronic Texts
 
-1 - Poetry Generator
+## Poetry Generator
 
-2 - Nested Poetry
+## Nested Poetry
 
-3 - Markov Stories
+## Markov Stories
 
-4 - Cut Ups
+## Cut Ups
 
-5 - Final
+## Final
